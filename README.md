@@ -135,4 +135,6 @@ C:\Users\desktop-user
 
 # Disclaimer
 
-Use responsibly.
+You are responsible for your own actions.
+
+This project is provided as-is without warranty of any kind. The author assumes no liability for misuse, damage, data loss, or legal consequences resulting from the use of this software.
