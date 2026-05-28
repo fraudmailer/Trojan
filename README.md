@@ -53,7 +53,7 @@ Minimal reverse TCP administration framework built with Python.
 
 ```bash id="v2n7yc"
 git clone https://github.com/fraudmailer/Trojan
-cd advanced-rat
+cd Trojan
 ```
 
 ---
